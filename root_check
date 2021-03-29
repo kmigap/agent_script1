@@ -5,3 +5,4 @@ then
 echo "you need root access"
 else
 exit 1
+echo "this is the start of a new life"
